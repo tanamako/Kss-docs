@@ -1,1 +1,17 @@
 == Frontend Styleguide 
+
+Kss
+http://warpspire.com/kss/styleguides/
+
+Kss-rails
+https://github.com/dewski/kss-rails
+
+
+  class KssController < ActionController::Base
+  
+  	def show
+  	    render "kss/home/styleguide"
+  	end
+  
+  end
+
