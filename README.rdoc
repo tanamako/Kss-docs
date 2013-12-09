@@ -1,9 +1,9 @@
 == Frontend Styleguide 
 
-Kss
+Kss  
 http://warpspire.com/kss/styleguides/
 
-Kss-rails
+Kss-rails  
 https://github.com/dewski/kss-rails
 
 
